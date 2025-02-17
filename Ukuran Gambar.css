@@ -1,0 +1,29 @@
+img {
+    width: 300px;
+    height: 200px;
+}
+body {
+    font-family: 'Times New Roman', sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: cadetblue;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+}
+.profile {
+    text-align: center;
+}
+img {
+    width: 150px;
+}
+h1, h2 {
+    text-align: center;
+}
+.section {
+    margin-top: 20px;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
