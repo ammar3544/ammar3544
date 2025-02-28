@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  👋 Halo! Aku Ammar 👨‍💻  
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7A801&size=30&center=true&vCenter=true&width=500&lines=Halo!+Aku+Ammar!+👨‍💻;Selamat+Datang+di+Profil+GitHub+ku!" />
 </h1>
 
 <p align="center">
@@ -12,51 +12,42 @@
 
 ---
 
-## 🛠 **Tools Favorit**
+## 👀 **Visitors Counter**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=canva,word,figma,github,vscode" />
+  <img src="https://komarev.com/ghpvc/?username=ammar3544&color=brightgreen" alt="Profile Views">
 </p>
 
 ---
 
-## 🏆 **Prestasi & Sertifikat**
-📜 **Sertifikat PESRA UNIB 2024**  
-📜 **Sertifikat NEON ERCOM 2024**  
-🎨 **Sertifikat Pelatihan Desain Grafis**  
-🎤 **Sertifikat Pelatihan Event Organizer**  
-bakal nambah dong
----
-
-## 🚀 **Proyek Buatan Sendiri**
-🎨 **[Portfolio Pribadi](https://github.com/ammar3544/portfolio)**  
-📊 **[Website Politik Indonesia](https://github.com/ammar3544/politik-id)**  
-nambah juga (nanti)
----
-
-## 📚 **Riwayat Pendidikan**
-🎓 **(S2 Informatika ITB, aamiin-in ya)**  
-🎓 **Universitas Bengkulu - Teknik Informatika**  
-🏫 **SMK Negeri 1 Tanjungpandan - TKJ**  
-🏫 **SMP Negeri 1 Tanjungpandan**  
-🏫 **SD Negeri 16 Tanjungpandan**  
-
----
-
-## 🌎 **Mutualan Yuk!**
+## 🏆 **GitHub Trophies**
 <p align="center">
-  <a href="https://github.com/ammar3544">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/ammar-s-ananda-3a8a69300/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/a.a_rajs/?__pwa=1">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:example@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ammar3544&theme=onestar&column=4" alt="GitHub Trophies">
 </p>
+
+---
+
+## 🎭 **Mood Hari Ini**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> Aku lagi merasa seperti ini:
+</p>
+<p align="center">
+  <img src="https://random-memer.herokuapp.com/" width="300">
+</p>
+
+---
+
+## 📱 **QR Code Profil**
+Pindai kode QR ini untuk langsung ke GitHubku! 🚀  
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/ammar3544" width="150">
+</p>
+
+---
+
+## 🎨 **Nama Ammar dalam ASCII Art**
+/ \ / \ / \ / \ / \ / \ ( A )( m )( m )( a )( r )
+_/ _/ _/ _/ _/ _/
+
 
 ---
 
@@ -73,4 +64,5 @@ nambah juga (nanti)
 
 ---
 
-🔥 **Dah paling bawah** 🚀  
+🔥 **README-mu sekarang makin estetik, unik, dan interaktif!** 🚀  
+Kalau mau fitur lain lagi, tinggal bilang aja! 😆
