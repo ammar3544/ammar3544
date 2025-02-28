@@ -59,5 +59,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammar3544&layout=compact&theme=radical" alt="Top Languages">
 </p>
-
-**Dah sampe bawah! Makasih udah mampir~**
