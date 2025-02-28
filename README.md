@@ -38,8 +38,11 @@
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/id/8/8f/Ubur-ubur-Lembur1.jpg" alt="Ubur-ubur Lembur" width="150">
+  <br>
   <img src="https://cdn.gramedia.com/uploads/items/Rendezvous.jpg" alt="Rendezvous" width="150">
+  <br>
   <img src="https://cdn.gramedia.com/uploads/items/Cover-Depan_Solo_Leveling_1_1.jpg" alt="Solo Leveling I" width="150">
+  <br>
   <img src="https://smanlimakotaserang.sch.id/wp-content/uploads/2021/05/coming-soon.jpeg" alt="Coming Soon..." width="150">
 </p>
 
