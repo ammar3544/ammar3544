@@ -9,21 +9,16 @@
 <p align="center">
   🚀 Programmer Pemula | 📚 Pembaca & Penulis | 🎨 Desain Grafis  
 </p>
----
 
 ## 🏆 **GitHub Trophies**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ammar3544&theme=onestar&column=4" alt="GitHub Trophies">
 </p>
 
----
-
-## 🎶 **Spotify Sedang Diputar**
-<p align="left">
-  <img src="https://i.pinimg.com/736x/86/ab/f6/86abf6dfc03f18b3f47ae806f13e1853.jpg" alt="Spotify Now Playing">
+## 🛠 **Tools Favorit**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=canva,word,figma,github,vscode" />
 </p>
-
----
 
 ## ☀️ **Info Cuaca di Kotaku**
 🌍 **Kota:** Bengkulu, Indonesia  
@@ -31,7 +26,6 @@
 🌦 **Kondisi:** Puasa gaes 
 > *Data otomatis dari API (manual sih)*
 
----
 
 ## 🎯 **Goals 2025**
 🚀 **Belajar python**  
@@ -49,13 +43,27 @@
   Jiwa menulis masih membara
 </p>
 
----
 
 ## 💬 **Quote Inspiratif**
 *"Don't ever let anyone make you feel like you don't deserver what you want."*
-  - 10 Things I Hate About You
+***-10 Things I Hate About You***
 
----
+## 🌎 **Mutualan Yuk!**
+<p align="center">
+  <a href="https://github.com/ammar3544">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/ammar-s-ananda-3a8a69300/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/a.a_rajs/?__pwa=1">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:example@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
 
 ## 📊 **Statistik GitHub**
 <p align="center">
@@ -68,4 +76,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammar3544&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
----
+**Dah sampe bawah
