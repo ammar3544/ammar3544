@@ -16,7 +16,7 @@
 </p>
 
 ## 🛠 **Tools Favorit**
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=canva,word,figma,github,vscode" />
 </p>
 
