@@ -38,6 +38,9 @@
 <p align="right">
   <img src="https://i.pinimg.com/originals/39/b9/a5/39b9a5e405731092a9e60ad13f546986.gif" alt="Gambar Kopi Bre" width="255">
 </p>
+<p align="left">
+Berusaha tanpa istirahat itu ga baik tapi ga ada usaha juga ga baik.. Jadi bagusnya apa ya? Bagusnya tentuin apa yang mau kamu usahain tapi jangan lupa kalau kereta aja ada stasiun untuk rehat sejenak, masa kamu ga?
+</p>
 
 ## 💬 **Quote Inspiratif**
 *"Don't ever let anyone make you feel like you don't deserve what you want."*
