@@ -8,38 +8,25 @@
   🚀 Programmer Pemula | 📚 Pembaca & Penulis | 🎨 Desain Grafis  
 </p>
 
-## 🏆 **GitHub Trophies**
+## 🏆 **Pencapaian Di GitHub**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ammar3544&theme=onestar&column=4" alt="GitHub Trophies">
 </p>
 
-## 🛠 **Tools Favorit**
+## 🛠 **Aplikasi Rutin**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,github,vscode" />
 </p>
 
-## ☀️ **Info Cuaca di Kotaku**
-🌍 **Kota:** Bengkulu, Indonesia  
-🌡️ **Suhu:** Tak Tentu°C  
-🌦 **Kondisi:** Puasa gaes 
-> *Data otomatis dari API (manual sih)*
-
-
 ## 🎯 **Goals 2025**
 🚀 **Belajar python**  
-<p>
-  Pusing eh
-</p>
+  Biar percaya diri manggil diri sendiri *Developer Junior*
 
-🏆 **Membangun Website E-Commerce**  
-<p>
-  Pengen jualan jasa desain dan coding
-</p>
+🏆 **Membangun Website E-Commerc**  
+  Mau jualan jasa desain dan coding
 
 🎖 **Membuat Novel**  
-<p>
-  Jiwa menulis masih membara
-</p>
+  Akhir tahun mau nulis novel 2 tahun belakang.
 
 
 ## 💬 **Quote Inspiratif**
