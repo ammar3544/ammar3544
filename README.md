@@ -22,7 +22,7 @@
 ## 🚀 **Proyek Buatan Sendiri**
 🎨 **[Portofolio Pribadi](https://ammar3544.github.io/Laprak%201.html)**  
 📊 **[Website Politik Indonesia](https://ammar3544.github.io/Politik.html#)**  
-🛒 **[Website E-Commerce (Coming Soon! 🚧)]()** 
+🛒 **[Website E-Commerce (Coming Soon! 🚧)](https://ammar3544.github.io/Website%20E-Commerce.html)** 
 
 ## 🎯 **Goals 2025**
 🚀 **Belajar python**  
