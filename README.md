@@ -20,8 +20,8 @@
 </p>
 
 ## 🚀 **Proyek Buatan Sendiri**
-🎨 **[Portfolio Pribadi](https://github.com/ammar3544/portfolio)**  
-📊 **[Website Politik Indonesia](https://github.com/ammar3544/politik-id)**  
+🎨 **[Portfolio Pribadi](https://ammar3544.github.io/Laprak%201.html)**  
+📊 **[Website Politik Indonesia](https://ammar3544.github.io/Politik.html#)**  
 🛒 **[Website E-Commerce (Coming Soon! 🚧)](#)** 
 
 ## 🎯 **Goals 2025**
@@ -34,6 +34,10 @@
 🎖 **Membuat Novel**  
   Akhir tahun mau nulis novel 2 tahun belakang.
 
+## Rehat Sejenak....
+<p align="right">
+  <img src="https://i.pinimg.com/originals/39/b9/a5/39b9a5e405731092a9e60ad13f546986.gif" alt="Gambar Kopi Bre">
+</p>
 
 ## 💬 **Quote Inspiratif**
 *"Don't ever let anyone make you feel like you don't deserve what you want."*
