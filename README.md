@@ -87,6 +87,12 @@
   Send a mail to me : <a href="mailto:ammarsananda345@gmail.com">ammarsananda345@gmail.com</a>
 </p>
 
+## 🐍 Jejak Kontribusi
+<p align="center">
+  <img src="https://github.com/ammar3544/ammar3544/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 ## 📊 **Statistik GitHub**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ammar3544&show_icons=true&theme=radical" alt="GitHub Stats">
