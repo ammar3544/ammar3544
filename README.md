@@ -16,7 +16,7 @@
 
 ## 🛠 **Aplikasi Rutin**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,github,vscode" />
 </p>
 
 ## 🚀 **Proyek Buatan Sendiri**
