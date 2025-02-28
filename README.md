@@ -81,7 +81,7 @@
   Send a mail to me : <a href="mailto:ammarsananda345@gmail.com">ammarsananda345@gmail.com</a>
 </p>
 
-## 🕒 Coding Activity
+## 🕒 Jam Ngoding
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Komti&theme=radical" />
 </p>
