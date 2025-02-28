@@ -46,7 +46,7 @@
   </a>
 </p>
 <p align="center">
-  Send a mail to me : <a ammarsananda345@gmail.com>
+  Send a mail to me : <a href="ammarsananda345@gmail.com">
 </p>
 
 ## 📊 **Statistik GitHub**
