@@ -35,7 +35,7 @@
   Akhir tahun mau nulis novel 2 tahun belakang.
 
 ## ☕ Rehat Sejenak....
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: left; justify-content: space-between;">
   <div style="width: 70%;">
     <p>
       Berusaha tanpa istirahat itu nggak baik, tapi nggak ada usaha juga nggak baik..  
