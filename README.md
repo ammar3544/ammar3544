@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/236x/67/ff/e3/67ffe3cff8dd70520dc6fd19a840c476.jpg" width="600" alt="Banner">
+  <img src="https://i.pinimg.com/originals/5d/75/8f/5d758f8778e039a171942a1993334d50.gif" width="300" alt="Banner">
 </p>
 
 ---
 
-## 🛠 **Teknologi & Tools**
+## 🛠 **Tools Favorit**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=canva,word,figma,github,vscode" />
 </p>
 
 ---
@@ -27,14 +27,14 @@
 bakal nambah dong
 ---
 
-## 🚀 **Proyek Saya**
+## 🚀 **Proyek Buatan Sendiri**
 🎨 **[Portfolio Pribadi](https://github.com/ammar3544/portfolio)**  
-📊 **[Website Politik Indonesia](https://github.com/ammar3544/politik-id)**
+📊 **[Website Politik Indonesia](https://github.com/ammar3544/politik-id)**  
 nambah juga (nanti)
 ---
 
 ## 📚 **Riwayat Pendidikan**
-🎓 **(S2 Informatika ITB, aamiin-in ya)**
+🎓 **(S2 Informatika ITB, aamiin-in ya)**  
 🎓 **Universitas Bengkulu - Teknik Informatika**  
 🏫 **SMK Negeri 1 Tanjungpandan - TKJ**  
 🏫 **SMP Negeri 1 Tanjungpandan**  
