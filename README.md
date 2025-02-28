@@ -7,6 +7,7 @@
 <p align="center">
   🚀 Programmer Pemula | 📚 Pembaca & Penulis | 🎨 Desain Grafis  
 </p>
+<p>Ammar Siraj Ananda, pemuda yang sedang menempuh program studi teknik informatika, hobinya membaca dan menulis. Seiring waktu berjalan banyak tantangan yang dilalui namun tidak membuatnya berhenti. Jadi, akhirnya gimana ya?</p>
 
 ## 🏆 **Pencapaian Di GitHub**
 <p align="center">
