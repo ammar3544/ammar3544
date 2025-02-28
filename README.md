@@ -46,7 +46,7 @@
       </p>
     </td>
     <td align="right" width="55%">
-      <img src="https://i.pinimg.com/originals/39/b9/a5/39b9a5e405731092a9e60ad13f546986.gif" alt="Gambar Kopi Bre" width="150">
+      <img src="https://i.pinimg.com/originals/39/b9/a5/39b9a5e405731092a9e60ad13f546986.gif" alt="Gambar Kopi Bre" width="250">
     </td>
   </tr>
 </table>
