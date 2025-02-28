@@ -9,6 +9,9 @@
 </p>
 <p align="justify">Ammar Siraj Ananda, pemuda yang sedang menempuh program studi teknik informatika, hobinya membaca dan menulis. Seiring waktu berjalan banyak tantangan yang dilalui namun tidak membuatnya berhenti. Jadi, akhirnya gimana ya?</p>
 
+## 🕰 Waktu Saat Ini
+![time](https://www.timeapi.io/api/Time/current/zone?timezone=Asia/Jakarta)
+
 ## 🏆 **Pencapaian Di GitHub**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ammar3544&theme=onestar&column=4" alt="GitHub Trophies">
