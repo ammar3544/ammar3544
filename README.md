@@ -9,15 +9,10 @@
 <p align="center">
   🚀 Programmer Pemula | 📚 Pembaca & Penulis | 🎨 Desain Grafis  
 </p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/5d/75/8f/5d758f8778e039a171942a1993334d50.gif" width="300" alt="Banner">
-</p>
-
 ---
 
 ## 🏆 **GitHub Trophies**
-<p align="justfiy">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ammar3544&theme=onestar&column=4" alt="GitHub Trophies">
 </p>
 
@@ -57,7 +52,8 @@
 ---
 
 ## 💬 **Quote Inspiratif**
-> ![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p> Don't ever let anyone make you feel like you don't deserver what you want.
+    - 10 Things I Hate About You</p>
 
 ---
 
