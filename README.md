@@ -17,7 +17,7 @@
 
 ## 🛠 **Tools Favorit**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=canva,word,figma,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,github,vscode" />
 </p>
 
 ## ☀️ **Info Cuaca di Kotaku**
@@ -76,4 +76,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammar3544&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
-**Dah sampe bawah
+**Dah sampe bawah!**
