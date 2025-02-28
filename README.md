@@ -1,11 +1,9 @@
 <h1 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?color=F7A801&size=30&center=true&vCenter=true&width=500&lines=Halo!+Aku+Ammar!+👨‍💻;Ini+Profil+GitHub+ku!" />
 </h1>
-  <h2>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=ammar3544&color=brightgreen" alt="Profile Views">
 </p>
-  </h2>
 <p align="center">
   🚀 Programmer Pemula | 📚 Pembaca & Penulis | 🎨 Desain Grafis  
 </p>
@@ -59,7 +57,7 @@
   <a href="https://www.instagram.com/a.a_rajs/?__pwa=1">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="mailto:example@example.com">
+  <a href="mailto:ammarsananda345@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
@@ -76,4 +74,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammar3544&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
-**Dah sampe bawah!**
+**Dah sampe bawah! Makasih udah mampir~**
