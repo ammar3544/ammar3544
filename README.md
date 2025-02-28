@@ -9,9 +9,6 @@
 </p>
 <p align="justify">Ammar Siraj Ananda, pemuda yang sedang menempuh program studi teknik informatika, hobinya membaca dan menulis. Seiring waktu berjalan banyak tantangan yang dilalui namun tidak membuatnya berhenti. Jadi, akhirnya gimana ya?</p>
 
-## 🕰 Waktu Saat Ini
-![time](https://www.timeapi.io/api/Time/current/zone?timezone=Asia/Jakarta)
-
 ## 🏆 **Pencapaian Di GitHub**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ammar3544&theme=onestar&column=4" alt="GitHub Trophies">
@@ -45,12 +42,6 @@
   <img src="https://cdn.gramedia.com/uploads/items/Cover-Depan_Solo_Leveling_1_1.jpg" alt="Solo Leveling I" width="150">
   <img src="https://smanlimakotaserang.sch.id/wp-content/uploads/2021/05/coming-soon.jpeg" alt="Coming Soon..." width="150">
 </p>
-
-## 🎶 Sedang Mendengarkan...
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=Vreesiee&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false">
-</p>
-
 
 ## ☕ Rehat Sejenak....
 <table>
@@ -89,12 +80,6 @@
 <p align="center">
   Send a mail to me : <a href="mailto:ammarsananda345@gmail.com">ammarsananda345@gmail.com</a>
 </p>
-
-## 🐍 Jejak Kontribusi
-<p align="center">
-  <img src="https://github.com/ammar3544/ammar3544/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
 
 ## 📊 **Statistik GitHub**
 <p align="center">
