@@ -1,7 +1,11 @@
 <h1 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?color=F7A801&size=30&center=true&vCenter=true&width=500&lines=Halo!+Aku+Ammar!+👨‍💻;Ini+Profil+GitHub+ku!" />
 </h1>
-
+  <h2>## 👀 **Visitors Counter**
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ammar3544&color=brightgreen" alt="Profile Views">
+</p>
+  </h2>
 <p align="center">
   🚀 Programmer Pemula | 📚 Pembaca & Penulis | 🎨 Desain Grafis  
 </p>
@@ -12,96 +16,48 @@
 
 ---
 
-## 👀 **Visitors Counter**
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ammar3544&color=brightgreen" alt="Profile Views">
-</p>
-
----
-
 ## 🏆 **GitHub Trophies**
-<p align="center">
+<p align="justfiy">
   <img src="https://github-profile-trophy.vercel.app/?username=ammar3544&theme=onestar&column=4" alt="GitHub Trophies">
 </p>
 
 ---
 
-## 🎭 **Mood Hari Ini**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> Aku lagi merasa seperti ini:
-</p>
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="300">
-</p>
-
----
-
 ## 🎶 **Spotify Sedang Diputar**
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_username&cover_image=true&theme=default" alt="Spotify Now Playing">
-</p>
-
----
-
-## 🐍 **GitHub Contribution Snake**
-<p align="center">
-  <img src="https://github.com/ammar3544/ammar3544/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+<p align="left">
+  <img src="https://i.pinimg.com/736x/86/ab/f6/86abf6dfc03f18b3f47ae806f13e1853.jpg" alt="Spotify Now Playing">
 </p>
 
 ---
 
 ## ☀️ **Info Cuaca di Kotaku**
 🌍 **Kota:** Bengkulu, Indonesia  
-🌡️ **Suhu:** 28°C  
-🌦 **Kondisi:** Berawan  
-> *Data otomatis dari API*
+🌡️ **Suhu:** Tak Tentu°C  
+🌦 **Kondisi:** Puasa gaes 
+> *Data otomatis dari API (manual sih)*
 
 ---
 
-## 🐱 **Kucing Random!**
-> **Biar hari-harimu lebih ceria, ini kucing random buatmu:**
-<p align="center">
-  <img src="https://cataas.com/cat?type=large" width="300">
-</p>
-
----
-
-## 🎯 **Goal 2025 - Progress Bar**
-🚀 **Belajar React & Next.js**  
+## 🎯 **Goals 2025**
+🚀 **Belajar python**  
 <p>
-  <img src="https://progress-bar.dev/40/?title=Progress&width=200&color=blue">
+  Pusing eh
 </p>
 
 🏆 **Membangun Website E-Commerce**  
 <p>
-  <img src="https://progress-bar.dev/20/?title=Progress&width=200&color=red">
+  Pengen jualan jasa desain dan coding
 </p>
 
-🎖 **Mendapatkan Sertifikasi Internasional**  
+🎖 **Membuat Novel**  
 <p>
-  <img src="https://progress-bar.dev/10/?title=Progress&width=200&color=purple">
+  Jiwa menulis masih membara
 </p>
 
 ---
 
 ## 💬 **Quote Inspiratif**
 > ![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
----
-
-## 📱 **QR Code Profil**
-Pindai kode QR ini untuk langsung ke GitHubku! 🚀  
-<p align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/ammar3544" width="150">
-</p>
-
----
-
-## 🎨 **Nama Ammar dalam ASCII Art**
-/ \ / \ / \ / \ / \ / \ ( A )( m )( m )( a )( r )
-_/ _/ _/ _/ _/ _/
-
 
 ---
 
@@ -117,6 +73,3 @@ _/ _/ _/ _/ _/ _/
 </p>
 
 ---
-
-🔥 **README-mu sekarang makin estetik, unik, dan interaktif!** 🚀  
-Kalau mau fitur lain lagi, tinggal bilang aja! 😆
