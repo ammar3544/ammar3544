@@ -35,20 +35,21 @@
   Akhir tahun mau nulis novel 2 tahun belakang.
 
 ## ☕ Rehat Sejenak....
-<div style="display: flex; align-items: left; justify-content: space-between;">
-  <div style="width: 70%;">
-    <p>
-      Berusaha tanpa istirahat itu nggak baik, tapi nggak ada usaha juga nggak baik..  
-      Jadi, bagusnya apa ya? 🤔  
-      Bagusnya, tentuin apa yang mau kamu usahain, tapi jangan lupa kalau **kereta aja ada stasiun untuk rehat sejenak**,  
-      masa kamu nggak? 🚂✨
-    </p>
-  </div>
-  <div style="width: 30%; text-align: right;">
-    <img src="https://i.pinimg.com/originals/39/b9/a5/39b9a5e405731092a9e60ad13f546986.gif" 
-         alt="Gambar Kopi Bre" width="150">
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="left" width="70%">
+      <p>
+        Berusaha tanpa istirahat itu nggak baik, tapi nggak ada usaha juga nggak baik..  
+        Jadi, bagusnya apa ya? 🤔  
+        Bagusnya, tentuin apa yang mau kamu usahain, tapi jangan lupa kalau **kereta aja ada stasiun untuk rehat sejenak**,  
+        masa kamu nggak? 🚂✨
+      </p>
+    </td>
+    <td align="right" width="45%">
+      <img src="https://i.pinimg.com/originals/39/b9/a5/39b9a5e405731092a9e60ad13f546986.gif" alt="Gambar Kopi Bre" width="150">
+    </td>
+  </tr>
+</table>
 
 
 ## 💬 **Quote Inspiratif**
