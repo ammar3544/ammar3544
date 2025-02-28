@@ -34,13 +34,22 @@
 🎖 **Membuat Novel**  
   Akhir tahun mau nulis novel 2 tahun belakang.
 
-## Rehat Sejenak....
-<p align="right">
-  <p align="left">
-Berusaha tanpa istirahat itu ga baik tapi ga ada usaha juga ga baik.. Jadi bagusnya apa ya? Bagusnya tentuin apa yang mau kamu usahain tapi jangan lupa kalau kereta aja ada stasiun untuk rehat sejenak, masa kamu ga?
-  </p><img src="https://i.pinimg.com/originals/39/b9/a5/39b9a5e405731092a9e60ad13f546986.gif" alt="Gambar Kopi Bre" width="255">
-</p>
-
+## ☕ Rehat Sejenak....
+<table>
+  <tr>
+    <td align="left" width="70%">
+      <p>
+        Berusaha tanpa istirahat itu nggak baik, tapi nggak ada usaha juga nggak baik..  
+        Jadi, bagusnya apa ya? 🤔  
+        Bagusnya, tentuin apa yang mau kamu usahain, tapi jangan lupa kalau **kereta aja ada stasiun untuk rehat sejenak**,  
+        masa kamu nggak? 🚂✨
+      </p>
+    </td>
+    <td align="right" width="30%">
+      <img src="https://i.pinimg.com/originals/39/b9/a5/39b9a5e405731092a9e60ad13f546986.gif" alt="Gambar Kopi Bre" width="150">
+    </td>
+  </tr>
+</table>
 
 ## 💬 **Quote Inspiratif**
 *"Don't ever let anyone make you feel like you don't deserve what you want."*
