@@ -52,8 +52,8 @@
 ---
 
 ## 💬 **Quote Inspiratif**
-<p> Don't ever let anyone make you feel like you don't deserver what you want.
-    - 10 Things I Hate About You</p>
+*"Don't ever let anyone make you feel like you don't deserver what you want."*
+  - 10 Things I Hate About You
 
 ---
 
