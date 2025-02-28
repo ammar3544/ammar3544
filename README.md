@@ -45,7 +45,9 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
-
+<p align="center">
+  Send a mail to me : ammarsananda345@gmail.com
+</p>
 
 ## 📊 **Statistik GitHub**
 <p align="center">
