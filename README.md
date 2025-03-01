@@ -34,7 +34,7 @@
 🎖 **Membuat Novel**  
   Akhir tahun mau nulis novel 2 tahun belakang.
 
-## 📚 Bacaan Yang Pernah Kubaca"
+## 📚 Bacaan Yang Pernah Kubaca
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/id/8/8f/Ubur-ubur-Lembur1.jpg" alt="Ubur-ubur Lembur" width="150">
