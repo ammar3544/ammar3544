@@ -78,7 +78,7 @@
   </a>
 </p>
 <p align="center">
-  Send a mail to me : <a href="mailto:ammarsananda345@gmail.com">ammarsananda345@gmail.com</a>
+  Mau ngobrol? Kirim surat aja : <a href="mailto:ammarsananda345@gmail.com">ammarsananda345@gmail.com</a>
 </p>
 
 ## 🕒 Jam Ngoding
