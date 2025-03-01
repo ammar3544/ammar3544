@@ -20,19 +20,6 @@
 </p>
 
 ## 🚀 Skills
-
-```yaml
-"Full-Stack Developer (maunya begitu) | Pemula Ngoding"
-skills:
-  - Programming:
-      - HTML
-      - PHP
-      - Python (On progress...)
-  - Databases:
-      - MySQL
-      - MongoDB
-```
-
 ```mermaid
 graph TD;
   A[CI/CD] -->|Automation| B(GitHub Actions);
