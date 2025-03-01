@@ -22,8 +22,7 @@
 ## 🚀 Skills
 
 ```yaml
-name: "ammarr"
-title: "Full-Stack Developer (maunya begitu) | Pemula Ngoding"
+"Full-Stack Developer (maunya begitu) | Pemula Ngoding"
 skills:
   - Programming:
       - HTML
@@ -36,14 +35,11 @@ skills:
 
 ```mermaid
 graph TD;
-  A[Frontend] -->|React| B(Next.js);
-  A -->|Vue.js| C(Nuxt.js);
-  D[Backend] -->|Node.js| E(Express.js);
-  D -->|PHP| F(Laravel);
-  G[Databases] -->|SQL| H(MySQL);
-  G -->|NoSQL| I(MongoDB);
-  J[DevOps] -->|Containerization| K(Docker);
-  J -->|CI/CD| L(GitHub Actions);
+  A[CI/CD] -->|Automation| B(GitHub Actions);
+  C[Programming] -->|Scripting| D(Python);
+  E[Web Development] -->|Markup| F(HTML);
+  G[Backend] -->|Server-Side| H(PHP);
+  I[Design] -->|User Experience| J(UI/UX);
 ```
 
 ## 🚀 **Proyek Buatan Sendiri**
