@@ -19,6 +19,22 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,github,vscode" />
 </p>
 
+## 🚀 Skills
+
+```yaml
+name: "ammarr"
+title: "Full-Stack Developer (maunya begitu) | Pemula Ngoding"
+skills:
+  - Programming:
+      - HTML
+      - PHP
+      - Python (On progress...)
+  - Databases:
+      - MySQL
+      - MongoDB
+```
+
+
 ## 🚀 **Proyek Buatan Sendiri**
 🎨 **[Portofolio Pribadi](https://ammar3544.github.io/Laprak%201.html)**  
 📊 **[Website Politik Indonesia](https://ammar3544.github.io/Politik.html#)**  
