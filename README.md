@@ -34,6 +34,17 @@ skills:
       - MongoDB
 ```
 
+```mermaid
+graph TD;
+  A[Frontend] -->|React| B(Next.js);
+  A -->|Vue.js| C(Nuxt.js);
+  D[Backend] -->|Node.js| E(Express.js);
+  D -->|PHP| F(Laravel);
+  G[Databases] -->|SQL| H(MySQL);
+  G -->|NoSQL| I(MongoDB);
+  J[DevOps] -->|Containerization| K(Docker);
+  J -->|CI/CD| L(GitHub Actions);
+```
 
 ## 🚀 **Proyek Buatan Sendiri**
 🎨 **[Portofolio Pribadi](https://ammar3544.github.io/Laprak%201.html)**  
